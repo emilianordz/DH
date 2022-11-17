@@ -1,0 +1,53 @@
+[
+    {
+    "id" : 1,
+    "marca" : "Olmo",
+    "modelo" : "Regal",
+    "rodado" : 29,
+    "anio" : 2022,
+    "color": "roja",
+    "peso" : 16,
+    "tipo" : "Montañera",
+    "precio" : 120000,
+    "vendida" : "si"
+    },
+    
+    {
+        "id" : 2,
+        "marca" : "Bianchi",
+        "modelo" :  "Fox",
+        "rodado" : 28,
+        "anio" : 2021,
+        "color": "verde",
+        "peso" : 10,
+        "tipo" : "Ruta",
+        "precio" : 200000,
+        "vendida" : "no"
+    },
+
+    {
+        "id" : 3,
+        "marca" : "Fierce",
+        "modelo" :  "Techno",
+        "rodado" : 26,
+        "anio" : 2021,
+        "color": "azul",
+        "peso" : 15,
+        "tipo" : "Triatlon",
+        "precio" : 150000,
+        "vendida" : "no"
+    },
+
+    {
+        "id" : 4,
+        "marca" : "Halley",
+        "modelo" :  "Sunshine",
+        "rodado" : 16,
+        "anio" : 2021,
+        "color": "violeta",
+        "peso" : 8,
+        "tipo" : "Paseo",
+        "precio" : 90000,
+        "vendida" : "si"
+    }
+]

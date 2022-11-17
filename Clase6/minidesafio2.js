@@ -1,0 +1,1 @@
+let peliculas = ("Turno de dia", "30 noches con mi ex", "Bestia", "El monte", "Top Gun: Maverick","Thor: Amor y trueno")
